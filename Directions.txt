@@ -1,0 +1,7 @@
+
+
+I was trying to build a Web Crawler for fun, its incomplete.
+
+In order for it to run, it needs to be put into Net Beans. 
+
+Of course if you have the time you can make it run in another Java supported IDE like Eclipse.
